@@ -1,0 +1,16 @@
+# /etc/systemd/system/ritma_bot.service
+[Unit]
+Description=Ritma Telegram Bot
+After=network.target
+
+[Service]
+WorkingDirectory=/root/bot_calendar
+ExecStart=/root/bot_calendar/venv/bin/python /root/bot_calendar/bot_calendar_full.py
+Restart=always
+RestartSec=5
+User=root
+
+EnvironmentFile=/root/bot_calendar/.env
+
+[Install]
+WantedBy=multi-user.target
