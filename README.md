@@ -7,6 +7,30 @@ The bot helps users better understand cycle phases, record events, review histor
 
 ---
 
+## 🖼 Screenshots
+
+### Main Menu
+Simple and accessible actions.
+![Main Menu](buttons.jpg)
+
+### Interactive Calendar
+Adding records using an inline calendar interface.
+![Calendar UI](data.jpg)
+
+### Commands
+List of supported commands.
+![Commands](command.jpg)
+
+---
+
+## 🎥 Demo Video
+
+📺 **Video walkthrough**
+*(Coming soon — YouTube link will be added here)*
+
+
+---
+
 ## ✨ Key Features
 
 - **Menstrual cycle tracking and history:** Keep a precise log of your cycle.
@@ -82,29 +106,6 @@ PHASE_MESSAGES = {
 }
 ```
 💡 *This logic helps transform raw health data into meaningful, human-centered interaction.*
-
----
-
-## 🖼 Screenshots
-
-### Main Menu
-Simple and accessible actions.
-![Main Menu](screenshots/buttons.jpg)
-
-### Interactive Calendar
-Adding records using an inline calendar interface.
-![Calendar UI](screenshots/data.jpg)
-
-### Commands
-List of supported commands.
-![Commands](screenshots/command.jpg)
-
----
-
-## 🎥 Demo Video
-
-📺 **Video walkthrough**
-*(Coming soon — YouTube link will be added here)*
 
 ---
 
