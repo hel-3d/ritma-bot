@@ -22,14 +22,20 @@ List of supported commands.
 ![Commands](command.jpg)
 
 ---
+## 🎥 Demo Video
+
+[![Ritma Bot – Demo Video](https://img.youtube.com/vi/SAXgBu4tuvI/maxresdefault.jpg)](https://youtu.be/SAXgBu4tuvI)
+
+▶️ Click to watch a full walkthrough of the bot features.
+
 
 ## 🎥 Demo Video
 
-📺 **Video walkthrough**
-*(Coming soon — YouTube link will be added here)*
+[![Ritma Bot – Demo](./assets/video_preview.jpg)](https://youtu.be/SAXgBu4tuvI)
 
+📺 **Full walkthrough:** https://youtu.be/SAXgBu4tuvI  
+🧪 Live bot: https://t.me/RitmaOn_bot
 
----
 
 ## ✨ Key Features
 
