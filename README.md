@@ -28,15 +28,6 @@ List of supported commands.
 
 ▶️ Click to watch a full walkthrough of the bot features.
 
-
-## 🎥 Demo Video
-
-[![Ritma Bot – Demo](./assets/video_preview.jpg)](https://youtu.be/SAXgBu4tuvI)
-
-📺 **Full walkthrough:** https://youtu.be/SAXgBu4tuvI  
-🧪 Live bot: https://t.me/RitmaOn_bot
-
-
 ## ✨ Key Features
 
 - **Menstrual cycle tracking and history:** Keep a precise log of your cycle.
